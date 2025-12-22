@@ -15,9 +15,9 @@ Experienced software engineer with 15+ years in web and backend development, wit
 - Contributed to GitLab → GitHub migration
 - Actively maintaining company-wide GitHub Actions and CI/CD workflows
 - Developed cloud-preview on-demand functionality for core systems
-- Working on internal systems and third-party integrations
+- Developing internal release platform
 
-**Tech:** GitHub, PHP, Node.js, Deno
+**Tech:** GitHub actions, PHP, Node.js, TypeScript, Deno, Bash, Docker
 
 ---
 
@@ -25,12 +25,12 @@ Experienced software engineer with 15+ years in web and backend development, wit
 **Radio Free Europe / Radio Liberty** | Mar 2021 – Jun 2023 | Prague, Czechia
 
 - Led a frontend team of 6 developers
-- Participated in planning, project management, and Scrum ceremonies
+- Participated in planning and project management
 - Developed and maintained internal CMS and tooling
 - Migrated legacy server-rendered frontend to SPA React architecture
 - Contributed to DevOps tooling and observability (ELK, Grafana, Redis, Docker)
 
-**Tech:** React, TypeScript, Webpack, Node.js, DevOps, Scrum
+**Tech:** React, TypeScript, Webpack, Node.js, DevOps
 
 ---
 
