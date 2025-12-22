@@ -105,14 +105,14 @@ export default async function Page() {
           <p className="max-w-3xl text-pretty leading-relaxed text-foreground">{cv.summary}</p>
           <div className="mt-6 flex gap-4">
             <a
-              href="mailto:juraj@example.com"
+              href="mailto:jurajsim@gmail.com"
               className="inline-flex items-center gap-2 text-sm text-muted-foreground transition-colors hover:text-accent"
             >
               <Mail className="h-5 w-5" />
               <span className="sr-only">Email</span>
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/simonjur"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 text-sm text-muted-foreground transition-colors hover:text-accent"
@@ -121,7 +121,7 @@ export default async function Page() {
               <span className="sr-only">GitHub</span>
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/juraj-simon"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 text-sm text-muted-foreground transition-colors hover:text-accent"
