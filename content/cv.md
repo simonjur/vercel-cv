@@ -1,7 +1,7 @@
-# Juraj Simon
+# Juraj Šimon
 ## Senior Software Engineer
 
-**Location:** Prague, Czech Republic · Hybrid
+**Location:** Litomyšl, Czech Republic · Hybrid
 
 Experienced software engineer with 15+ years in web and backend development, with leadership background, and hands-on expertise in modern JavaScript ecosystems, DevOps, and cloud-native tooling. Proven track record in leading teams, modernizing architectures, and delivering reliable internal platforms.
 
@@ -78,7 +78,10 @@ Experienced software engineer with 15+ years in web and backend development, wit
 
 ## Core Skills
 
-### Languages
+### Languages (Human)
+Slovak (native), Czech (fluent), English (fluent)
+
+### Languages (Programming)
 JavaScript, TypeScript, PHP, Java
 
 ### Frontend

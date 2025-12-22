@@ -1,6 +1,7 @@
 import { Card } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Github, Linkedin, Mail, MapPin } from "lucide-react"
+import { ThemeSwitcher } from "@/components/theme-switcher"
 import fs from "fs"
 import path from "path"
 
@@ -93,6 +94,9 @@ export default async function Page() {
 
   return (
     <div className="min-h-screen bg-background">
+      <div className="fixed right-6 top-6 z-50">
+        <ThemeSwitcher />
+      </div>
       <div className="mx-auto max-w-4xl px-6 py-12 md:py-20">
         {/* Header */}
         <header className="mb-16">
