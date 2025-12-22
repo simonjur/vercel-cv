@@ -17,7 +17,7 @@ Experienced software engineer with 15+ years in web and backend development, wit
 - Developed cloud-preview on-demand functionality for core systems
 - Working on internal systems and third-party integrations
 
-**Tech:** GitHub, Node.js, Deno
+**Tech:** GitHub, PHP, Node.js, Deno
 
 ---
 
