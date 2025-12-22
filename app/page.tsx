@@ -97,7 +97,6 @@ export default async function Page() {
       <div className="fixed right-6 top-6 z-50">
         <ThemeSwitcher />
       </div>
-
       <div className="mx-auto max-w-4xl px-6 py-12 md:py-20">
         {/* Header */}
         <header className="mb-16">
