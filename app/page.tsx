@@ -182,7 +182,7 @@ function ExperienceItem({
   tech: string[]
 }) {
   return (
-    <div className="experience-item relative border-l-2 border-border pl-6 break-after-page">
+    <div className="experience-item relative border-l-2 border-border pl-6">
       <div className="absolute -left-[9px] top-0 h-4 w-4 rounded-full border-2 border-border bg-background" />
       <div className="mb-2">
         <h3 className="text-lg font-semibold text-foreground">{title}</h3>
