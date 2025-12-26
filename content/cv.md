@@ -15,7 +15,7 @@ Experienced software engineer with 15+ years in web and backend development. Han
 - Contributed to GitLab to GitHub migration
 - Actively maintain company-wide GitHub Actions and CI/CD workflows
 - Developed on-demand cloud preview functionality for core systems
-- Developing the primary release toolset for the Shoptet platform
+- Actively working on the primary release toolset for the Shoptet platform
 
 **Tech:** GitHub Actions, PHP, Node.js, TypeScript, Deno, Bash, Docker
 
