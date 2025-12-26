@@ -112,8 +112,9 @@ export default async function Page() {
               href="mailto:jurajsim@gmail.com"
               className="inline-flex items-center gap-2 text-sm text-muted-foreground transition-colors hover:text-accent"
             >
-              <Mail className="h-5 w-5" />
-              <span className="sr-only">Email</span>
+              <Mail className="h-5 w-5 print:hidden" />
+              <span className="hidden print:inline">jurajsim@gmail.com</span>
+              <span className="sr-only print:not-sr-only">Email</span>
             </a>
             <a
               href="https://github.com/simonjur"
@@ -133,6 +134,9 @@ export default async function Page() {
               <Linkedin className="h-5 w-5" />
               <span className="sr-only">LinkedIn</span>
             </a>
+          </div>
+          <div className="mt-4 hidden print:block text-sm text-muted-foreground">
+            <span>Live version: https://v0-jurajsimon-cv.vercel.app/</span>
           </div>
         </header>
 
