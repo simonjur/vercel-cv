@@ -15,7 +15,7 @@ Experienced software engineer with 15+ years in web and backend development. Han
 - Contributed to GitLab to GitHub migration
 - Actively maintain company-wide GitHub Actions and CI/CD workflows
 - Developed on-demand cloud preview functionality for core systems
-- Developing internal release platform
+- Developing the primary release toolset for the Shoptet platform
 
 **Tech:** GitHub Actions, PHP, Node.js, TypeScript, Deno, Bash, Docker
 
@@ -37,7 +37,7 @@ Experienced software engineer with 15+ years in web and backend development. Han
 ### Senior Node.js Developer / Dev Lead
 **Bohemia Interactive** | 2016 – 2019 | Prague, Czechia
 
-- Started as senior full-stack developer and later transitioned to dev lead
+- Started as a senior full-stack developer and later transitioned to dev lead
 - Led a team of 5 developers across frontend, backend, and full-stack roles
 - Worked on company websites, game-related microservices, and internal portals
 - Focused on code quality, architecture, and code reviews
