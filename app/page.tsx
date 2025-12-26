@@ -94,7 +94,7 @@ export default async function Page() {
 
   return (
     <div className="min-h-screen bg-background">
-      <div className="fixed right-6 top-6 z-50">
+      <div className="theme-switcher fixed right-6 top-6 z-50 print:hidden">
         <ThemeSwitcher />
       </div>
       <div className="mx-auto max-w-4xl px-6 py-12 md:py-20">
@@ -178,7 +178,7 @@ function ExperienceItem({
   tech: string[]
 }) {
   return (
-    <div className="relative border-l-2 border-border pl-6">
+    <div className="experience-item relative border-l-2 border-border pl-6 break-after-page">
       <div className="absolute -left-[9px] top-0 h-4 w-4 rounded-full border-2 border-border bg-background" />
       <div className="mb-2">
         <h3 className="text-lg font-semibold text-foreground">{title}</h3>

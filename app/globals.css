@@ -93,3 +93,86 @@
     @apply bg-background text-foreground;
   }
 }
+
+@media print {
+  /* Hide interactive elements */
+  .theme-switcher,
+  button {
+    display: none !important;
+  }
+
+  /* Optimize page layout for printing */
+  body {
+    background: white !important;
+    color: black !important;
+  }
+
+  /* Remove min-height constraint */
+  .min-h-screen {
+    min-height: auto;
+  }
+
+  /* Ensure proper page breaks */
+  section {
+    page-break-inside: avoid;
+  }
+
+  /* Avoid breaking experience items across pages */
+  .experience-item {
+    page-break-inside: avoid;
+  }
+
+  /* Reset colors for better printing */
+  * {
+    background: transparent !important;
+    box-shadow: none !important;
+  }
+
+  /* Ensure text is readable */
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p,
+  li,
+  span {
+    color: black !important;
+  }
+
+  /* Keep borders visible but subtle */
+  .border-l-2 {
+    border-color: #ccc !important;
+  }
+
+  /* Make badges print-friendly */
+  .badge {
+    border: 1px solid #333 !important;
+    background: transparent !important;
+    color: black !important;
+  }
+
+  /* Optimize spacing for print */
+  .px-6 {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+
+  /* Remove fixed positioning */
+  .fixed {
+    position: static !important;
+  }
+
+  /* Ensure links show URLs in print */
+  a[href^="http"]:after {
+    content: " (" attr(href) ")";
+    font-size: 0.8em;
+    color: #666;
+  }
+
+  /* Hide screen reader only content */
+  .sr-only {
+    display: none !important;
+  }
+}
