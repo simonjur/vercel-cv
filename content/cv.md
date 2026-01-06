@@ -3,7 +3,9 @@
 
 **Location:** Litomyšl, Czech Republic · Hybrid
 
-Experienced software engineer with 15+ years in web and backend development. Hands-on expertise in modern JavaScript ecosystems, DevOps, and cloud-native tooling. Proven track record in modernizing architectures and delivering reliable internal platforms, with some experience in team leadership and mentoring.
+Experienced software engineer with 15+ years in web and backend development. 
+Hands-on expertise in modern JavaScript ecosystems, DevOps, and cloud-native tooling. 
+Proven track record in **modernizing systems,architectures and delivering reliable internal platforms**, with some experience in team leadership and mentoring.
 
 ---
 
